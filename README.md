@@ -4,20 +4,20 @@
   <img src="https://media.giphy.com/media/2tSodgDfwCjIMCBY8h/giphy.gif" width="35%"/>
 </div>
 
-# About me:
-<b>I'm Anna and I'm a Frontend developer :woman_technologist:</b>
+<h2>I'm Anna and I'm a Frontend developer :woman_technologist:</h2>
+
 
 - 🔭 I’m currently working on JavaScript and ReactJs
 - 🌱 I’m currently improving my webdevelopment skills and looking forward to learning TypeScript and Vue.js
 - 😄 Pronouns: she/her
 
-# Contacts:
+## Contacts:
 
 - <a href="https://www.linkedin.com/in/anna-eliava-20437b257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNSb31ZbsRqK0475vCaNP%2BQ%3D%3D" target="blank">LinkedIn</a>
 - <a href="https://t.me/annaeliava" target="blank">Telegram</a>
 - <a href="mailto:annaeliavad@gmail.com" target="blank">E-mail</a>
 
-# Technologies:
+## Technologies:
 
 <div>
     <img title='html5' alt='html5' width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
