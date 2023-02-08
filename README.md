@@ -15,7 +15,7 @@
 
 - <a href="https://www.linkedin.com/in/anna-eliava-20437b257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNSb31ZbsRqK0475vCaNP%2BQ%3D%3D" target="blank">LinkedIn</a>
 - <a href="https://t.me/annaeliava" target="blank">Telegram</a>
-- <a href="annaeliavad@gmail.com" target="blank">E-mail</a>
+- <a href="mailto:annaeliavad@gmail.com" target="blank">E-mail</a>
 
 # Technologies:
 
