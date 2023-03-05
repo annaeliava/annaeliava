@@ -7,7 +7,7 @@
 <h2>I'm Anna and I'm a Frontend developer :woman_technologist:</h2>
 
 
-- 🔭 I’m currently working on JavaScript and ReactJs
+- 🔭 I’m currently working on JavaScript and ReactJS
 - 🌱 I’m currently improving my webdevelopment skills and looking forward to learning TypeScript and Vue.js
 - 😄 Pronouns: she/her
 
