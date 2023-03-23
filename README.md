@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on JavaScript and ReactJS
-- 🌱 I’m currently improving my webdevelopment skills and looking forward to learning TypeScript and Vue.js
+- 🌱 I’m currently improving my webdevelopment skills and looking forward to learning TypeScript, PHP and Vue.js
 - 😄 Pronouns: she/her
 
 ## Contacts:
