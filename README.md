@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on JavaScript and ReactJS
-- 🌱 I’m currently improving my webdevelopment skills and looking forward to learning TypeScript, PHP and Vue.js
+- 🌱 I’m currently improving my webdevelopment skills and looking forward to learning Vue.js
 - 😄 Pronouns: she/her
 
 ## Contacts:
@@ -24,6 +24,7 @@
     <img title='css3' alt='css3' width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;
     <img title='sass' alt='sass' width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"" />&nbsp;
     <img title='js' alt='js' width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;
+    <img title='ts' alt='ts' width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;
     <img title='react' alt='react' width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
     <img title='material' alt='material' width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />&nbsp;
     <img title='bootstrap' alt='bootstrap' width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />&nbsp;
